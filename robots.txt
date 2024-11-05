@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://egetiudo.github.io/EIH/sitemap_index.txt
+Sitemap: https://egetiudo.github.io/FMO/sitemap_index.txt
+Sitemap: https://egetiudo.github.io/TdA/sitemap_index.txt
+Sitemap: https://egetiudo.github.io/XRS/sitemap_index.txt
